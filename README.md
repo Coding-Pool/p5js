@@ -6,7 +6,7 @@
 코드 https://github.com/Coding-Pool/p5js/tree/master/webgl_noise_2020_10_30 <br>
 <br>
 2 <br>
-12.4 스터디 : P5js WebGL 모드에서 shader를 이용해서 만든 간단한 pinㅎpongbuffer, backbuffer 예제. <br>
+12.4 스터디 : P5js WebGL 모드에서 shader를 이용해서 만든 간단한 pingpongbuffer, backbuffer 예제. <br>
 pingpongbuffer (실행) https://editor.p5js.org/hlp/present/FZPksI2Ii <br>
 pingpongbuffer (코드) https://github.com/Coding-Pool/p5js/tree/master/pinpongBuffer <br>
 backbuffer (실행) https://editor.p5js.org/hlp/present/ncJGM9DNj <br>
